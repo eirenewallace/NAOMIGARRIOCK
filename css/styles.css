@@ -32,12 +32,12 @@ body {
     letter-spacing: 0px; 
   }
   
-  img {
-    display: block;
-    max-width: 60%;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 2vw;
+ .center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
 
    
   }
